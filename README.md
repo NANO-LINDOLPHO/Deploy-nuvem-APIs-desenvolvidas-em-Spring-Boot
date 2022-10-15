@@ -1,6 +1,8 @@
-## Cloud Parking    :red_car:   :yellow_car:  :minibus:   :truck: :oncoming_automobile:
+## Cloud Parking    :red_car:   :blue_car:  :minibus:   :truck: :oncoming_automobile: 
 ***
 Neste desafio de projeto o objetivo era desenvolver um conjunto de API’s utilizando Spring Boot para controlar um estacionamento de veículos. Serão controlados a entrada, saída e valor a ser cobrado do cliente. Iremos ser instruídos a aplicar todas as boas práticas de desenvolvimento de API’s incluindo segurança com Spring Security e acesso a banco de dados PostgreSQL. Serão realizados testes e relatórios de cobertura de testes. Após finalizarmos a aplicação e termos enviado para o Github, nos é proposto fazer o deploy na cloud do Heroku a fim de disponibilizar nossa API para a Internet.
+
+:blue_car: :red_car:
 
 _**Pré-requisitos:**_
 
